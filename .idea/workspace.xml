@@ -306,6 +306,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a4c97107-581c-49ff-ba63-4a9d29f785d4" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IdeaProjects\LeetCode\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1WncuQXkF1L9onr7MLseN0WoTIK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -314,6 +325,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -543,16 +556,64 @@
       <workItem from="1586915823096" duration="6859000" />
       <workItem from="1586934244640" duration="4479000" />
       <workItem from="1587000643089" duration="7059000" />
-      <workItem from="1587036339551" duration="1191000" />
+      <workItem from="1587036339551" duration="5135000" />
     </task>
+    <task id="LOCAL-00001" summary="leetcode">
+      <created>1587037570165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587037570165</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2020年4月16日20:45:45 arrayandmatrix">
+      <created>1587041165934</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587041165934</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2020年4月16日20:45:45 arrayandmatrix">
+      <created>1587041239006</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587041239006</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2020年4月16日20:45:45 arrayandmatrix">
+      <created>1587041313551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587041313551</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2020年4月16日20:45:45 arrayandmatrix">
+      <created>1587041444990</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587041444990</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
+    <MESSAGE value="2020年4月16日20:45:45 arrayandmatrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年4月16日20:45:45 arrayandmatrix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583855107409">
@@ -563,10 +624,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584585990325" />
-    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1587037530132">
+    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1587041700816">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587037530132" />
+    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587041700816" />
     <state x="549" y="111" key="FileChooserDialogImpl" timestamp="1587037345699">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -612,11 +673,19 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="408" y="116" width="1000" height="591" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1580215294565" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1587037230967">
+    <state x="302" y="59" key="SettingsEditor" timestamp="1587041520519">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580215296580" />
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587037230967" />
+    <state x="302" y="59" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587041520519" />
+    <state x="614" y="352" key="VCS.ChangelistChooser" timestamp="1587041678193">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="614" y="352" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1587041678193" />
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587041448511">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587041448511" />
     <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587036341223">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -639,11 +708,11 @@
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580198498975" />
     <state x="425" y="196" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586317046466" />
-    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1587005854105">
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1587039799243">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580117140122" />
-    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587005854105" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587039799243" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$Triangle.ic" NAME="Triangle Coverage Results" MODIFIED="1585367559357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
