@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="leetcode">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code131partition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code17letterCombinations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code216combinationSum3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code37solveSudoku.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code40combinationSum2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code51solveNQueens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code90subsetsWithDup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code93restoreIpAddresses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/ListNode/Code160GetIntersectionNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/ListNode/Code24ReverseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/ListNode/Code24SwapPairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/bfs/Code1091shortestPathBinaryMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/bfs/Code127ladderLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/bfs/Code200numIslands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/bfs/Code279numSquares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/binarySearch/Code34searchRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/binarySearch/Code540singleNonDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code1160countCharacters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code130solve.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code145PostorderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code300LengthOfLIS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code409longestPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code40getLeastNumbers$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code40getLeastNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code417pacificAtlantic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code80removeDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code820$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code820.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code836isRectangleOverlap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code876middleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code892surfaceArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code8myAtoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code994orangesRotting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code999numRookCaptures.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/CodeRotate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/PermuteUnique_47.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/TrieNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/massage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dfs/Code386lexicalOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dfs/Code547findCircleNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dfs/Code695maxAreaOfIsland.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/divideAndConquer/Code241diffWaysToCompute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/divideAndConquer/Code95generateTrees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/doublePointer/Code345reverseVowels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/doublePointer/Code524findLongestWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/doublePointer/Code633judgeSquareSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/doublePointer/Code680validPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code115numDistinct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code139WordBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code213rob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code309MaxProfit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code322CoinChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code343integerBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code376wiggleMaxLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code377CombinationSum4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code413NumberOfArithmeticSlices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code416canPartition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code474FindMaxForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code494findTargetSumWays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code583MinDistance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code62uniquePaths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code646findLongestChain$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code646findLongestChain$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code646findLongestChain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code650MinSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code72minDistance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code91numDecodings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/NumArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code121maxProfit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code392isSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code406reconstructQueue$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code406reconstructQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code435eraseOverlapIntervals$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code435eraseOverlapIntervals$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code435eraseOverlapIntervals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code452findMinArrowShots$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code452findMinArrowShots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code455findContentChildren.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code605canPlaceFlowers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code665checkPossibility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code763partitionLabels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/huawei/Count.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/huawei/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/huawei/Random.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/huawei/ShoppingCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/huawei/StrSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/BasicKnowledge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code168ConvertToTitle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code172TrailingZeroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code204CountPrimes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code238ProductExceptSelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code367IsPerfectSquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code405ToHex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code415AddStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code462MinMoves2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code504ConvertToBase7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code628MaximumProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code67AddBinary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code215findKthLargest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code215findKthLargest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code347topKFrequent$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code347topKFrequent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code451frequencySort$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code451frequencySort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code75sortColors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test1/CheckStraightLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test1/MaxPathSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test1/RelativeSortArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test2/constructMaximumBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test2/prefixesDivBy5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test3/closedIsland.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test3/sampleStats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test4/BuyingAHat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test4/ComingHome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test4/Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test4/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/utils/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/utils/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/utils/UF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code131partition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code17letterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code216combinationSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code37solveSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code40combinationSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code51solveNQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code90subsetsWithDup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code93restoreIpAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code160GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code24ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code24SwapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code328OddEvenList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code445AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code725SplitListToParts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/hashtable/Code128LongestConsecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/hashtable/Code1TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/hashtable/Code217ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/hashtable/Code594FindLHS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/Code20IsValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/Code503NextGreaterElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/string/Code205IsIsomorphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/string/Code647CountSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/string/Code696CountBinarySubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/string/Code9IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code101IsSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code108SortedArrayToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code109SortedListToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code112hHasPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code226InvertTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code230KthSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code235LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code236LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code337Rob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code404SumOfLeftLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code437PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code501FindMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code513FindBottomLeftValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code530GetMinimumDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code538ConvertBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code543DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code572IsSubtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code617MergeTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code637AverageOfLevels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code653FindTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code669TrimBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code671FindSecondMinimumValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code687LongestUnivaluePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/MapSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/order/InOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/order/postOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/order/preOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/bfs/Code1091shortestPathBinaryMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/bfs/Code127ladderLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/bfs/Code200numIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/bfs/Code279numSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/binarySearch/Code34searchRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/binarySearch/Code540singleNonDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code1160countCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code130solve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code145PostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code300LengthOfLIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code409longestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code40getLeastNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code417pacificAtlantic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code542UpdateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code56merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code80removeDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code820.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code836isRectangleOverlap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code876middleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code892surfaceArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code8myAtoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code994orangesRotting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code999numRookCaptures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/CodeRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/PermuteUnique_47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/massage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dfs/Code386lexicalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dfs/Code547findCircleNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dfs/Code695maxAreaOfIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/divideAndConquer/Code241diffWaysToCompute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/divideAndConquer/Code95generateTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/doublePointer/Code345reverseVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/doublePointer/Code524findLongestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/doublePointer/Code633judgeSquareSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/doublePointer/Code680validPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code115numDistinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code139WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code213rob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code309MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code322CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code343integerBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code376wiggleMaxLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code377CombinationSum4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code413NumberOfArithmeticSlices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code474FindMaxForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code494findTargetSumWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code583MinDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code62uniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code646findLongestChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code650MinSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code72minDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code91numDecodings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code121maxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code392isSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code406reconstructQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code435eraseOverlapIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code452findMinArrowShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code455findContentChildren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code605canPlaceFlowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code665checkPossibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code763partitionLabels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/StrSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/BasicKnowledge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code168ConvertToTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code172TrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code204CountPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code238ProductExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code367IsPerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code405ToHex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code415AddStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code462MinMoves2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code504ConvertToBase7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code628MaximumProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code67AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/Code215findKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/Code347topKFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/Code451frequencySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/Code75sortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test1/CheckStraightLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test1/MaxPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test1/RelativeSortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test2/constructMaximumBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test2/prefixesDivBy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test3/closedIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test3/sampleStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test4/BuyingAHat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test4/ComingHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test4/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test4/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/utils/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/utils/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/utils/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/utils/UF.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LeetCode" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WncuQXkF1L9onr7MLseN0WoTIK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\Java\00 讲义+笔记+资料\JavaWeb\25.会员版(2.0)-就业课(2.0)-Jquery\day12_JQuery高级\代码\day21_JQuery高级" />
+      <recent name="D:\study\Java\00 讲义+笔记+资料\JavaWeb\25.会员版(2.0)-就业课(2.0)-Jquery\day11_JQuery基础\代码\day20_JQuery基础\练习" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ArrayList" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Code405ToHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.math.Code405ToHex" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code8myAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.daydayup.Code8myAtoi" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.daydayup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.huawei.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.huawei.ShoppingCart" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.huawei.StrSort" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="day20_JQuery基础" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="day20_JQuery基础" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ShoppingCart" />
+        <item itemvalue="Application.StrSort" />
+        <item itemvalue="Application.Code405ToHex" />
+        <item itemvalue="Application.Code8myAtoi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\12554\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="" />
+      <created>1579789021632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579789021632</updated>
+      <workItem from="1579789026275" duration="1238000" />
+      <workItem from="1580115706030" duration="2631000" />
+      <workItem from="1580127795673" duration="1363000" />
+      <workItem from="1580197765989" duration="1475000" />
+      <workItem from="1580211688463" duration="2826000" />
+      <workItem from="1580265443067" duration="4078000" />
+      <workItem from="1580542196008" duration="30000" />
+      <workItem from="1583850272972" duration="3870000" />
+      <workItem from="1583905129485" duration="5735000" />
+      <workItem from="1583929371339" duration="6403000" />
+      <workItem from="1583984027937" duration="17396000" />
+      <workItem from="1584153144181" duration="10246000" />
+      <workItem from="1584170829132" duration="5652000" />
+      <workItem from="1584236209334" duration="7577000" />
+      <workItem from="1584366691476" duration="5804000" />
+      <workItem from="1584410154960" duration="6555000" />
+      <workItem from="1584423952351" duration="6091000" />
+      <workItem from="1584448815889" duration="4411000" />
+      <workItem from="1584501033928" duration="14174000" />
+      <workItem from="1584540399218" duration="1308000" />
+      <workItem from="1584584070094" duration="6647000" />
+      <workItem from="1584601869361" duration="2000" />
+      <workItem from="1584621965906" duration="7091000" />
+      <workItem from="1584667590894" duration="8681000" />
+      <workItem from="1584684519218" duration="4972000" />
+      <workItem from="1584707477790" duration="3075000" />
+      <workItem from="1584755035112" duration="1858000" />
+      <workItem from="1584796784398" duration="5825000" />
+      <workItem from="1584975819734" duration="787000" />
+      <workItem from="1585019115327" duration="19933000" />
+      <workItem from="1585112591619" duration="12460000" />
+      <workItem from="1585136040665" duration="4779000" />
+      <workItem from="1585201757686" duration="15277000" />
+      <workItem from="1585274121028" duration="2121000" />
+      <workItem from="1585280759195" duration="3955000" />
+      <workItem from="1585363123899" duration="13698000" />
+      <workItem from="1585402149902" duration="2830000" />
+      <workItem from="1585469347579" duration="8130000" />
+      <workItem from="1585537974174" duration="600000" />
+      <workItem from="1585833203201" duration="3523000" />
+      <workItem from="1585899797545" duration="4235000" />
+      <workItem from="1585915152946" duration="7099000" />
+      <workItem from="1585924892571" duration="6000" />
+      <workItem from="1586010725917" duration="1041000" />
+      <workItem from="1586087274736" duration="7644000" />
+      <workItem from="1586142002598" duration="5717000" />
+      <workItem from="1586224774649" duration="15036000" />
+      <workItem from="1586262431090" duration="9430000" />
+      <workItem from="1586312369512" duration="10395000" />
+      <workItem from="1586323110030" duration="6984000" />
+      <workItem from="1586348836973" duration="5535000" />
+      <workItem from="1586423799672" duration="4185000" />
+      <workItem from="1586434585207" duration="7662000" />
+      <workItem from="1586483550682" duration="11583000" />
+      <workItem from="1586518828466" duration="6080000" />
+      <workItem from="1586570866405" duration="1260000" />
+      <workItem from="1586667280948" duration="6000" />
+      <workItem from="1586699080865" duration="617000" />
+      <workItem from="1586783684894" duration="4960000" />
+      <workItem from="1586827832456" duration="7733000" />
+      <workItem from="1586846620654" duration="507000" />
+      <workItem from="1586872761513" duration="3958000" />
+      <workItem from="1586915823096" duration="6859000" />
+      <workItem from="1586934244640" duration="4479000" />
+      <workItem from="1587000643089" duration="7059000" />
+      <workItem from="1587036339551" duration="1191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583855107409">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583855107409" />
+    <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1584585990325">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584585990325" />
+    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1587037530132">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587037530132" />
+    <state x="549" y="111" key="FileChooserDialogImpl" timestamp="1587037345699">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="106" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580280003096" />
+    <state x="549" y="111" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587037345699" />
+    <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog" timestamp="1587036727557">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1587036727557" />
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1586322809560">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
+    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1586322809560">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
+    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1586322809560">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
+    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1586322809560">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1586322809560">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1586322809560">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1586322809560">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1586322809560">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
+    <state x="408" y="116" width="1000" height="591" key="NewModule_or_Project.wizard" timestamp="1580215294565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="116" width="1000" height="591" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1580215294565" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1587037230967">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580215296580" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587037230967" />
+    <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587036341223">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580542195484" />
+    <state x="461" y="253" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587036341223" />
+    <state x="308" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586832541856">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="308" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1586832541856" />
+    <state x="178" y="29" key="new project wizard" timestamp="1580542224104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580542224104" />
+    <state x="472" y="65" key="refactoring.ChangeSignatureDialog" timestamp="1584006267640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="472" y="65" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1584006267640" />
+    <state x="425" y="196" width="672" height="677" key="run.anything.popup" timestamp="1586317046466">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580198498975" />
+    <state x="425" y="196" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586317046466" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1587005854105">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580117140122" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587005854105" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$Triangle.ic" NAME="Triangle Coverage Results" MODIFIED="1585367559357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lixuan.test.test4.*</FILTER>
+    </SUITE>
+  </component>
+</project>
