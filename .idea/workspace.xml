@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/arrayandmatrix/Code378KthSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/arrayandmatrix/Code645FindErrorNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code55canJump.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="">
+    <list id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="2020年4月16日20:45:45 arrayandmatrix">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -33,9 +30,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="a4c97107-581c-49ff-ba63-4a9d29f785d4" />
-  </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -46,37 +40,33 @@
   <component name="LineStatusTrackerManager">
     <file path="$PROJECT_DIR$/.idea/workspace.xml">
       <ranges>
-        <range start1="4" end1="7" start2="4" end2="6" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="48" end1="65" start2="47" end2="78" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="96" end1="97" start2="109" end2="110" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="110" end1="112" start2="123" end2="125" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="115" end1="116" start2="128" end2="129" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="211" end1="211" start2="224" end2="225" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="215" end1="216" start2="229" end2="229" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="308" end1="309" start2="321" end2="322" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="345" end1="346" start2="358" end2="394" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="354" end1="354" start2="402" end2="500" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="356" end1="357" start2="502" end2="505" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="361" end1="361" start2="509" end2="517" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="363" end1="364" start2="519" end2="519" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="365" end1="366" start2="520" end2="523" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="376" end1="377" start2="533" end2="534" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="379" end1="380" start2="536" end2="537" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="389" end1="390" start2="546" end2="547" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="392" end1="394" start2="549" end2="551" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="396" end1="398" start2="553" end2="555" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="400" end1="402" start2="557" end2="559" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="404" end1="406" start2="561" end2="563" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="408" end1="410" start2="565" end2="567" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="412" end1="414" start2="569" end2="571" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="416" end1="418" start2="573" end2="575" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="420" end1="421" start2="577" end2="578" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="434" end1="435" start2="591" end2="592" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="437" end1="439" start2="594" end2="596" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="442" end1="443" start2="599" end2="600" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="447" end1="447" start2="604" end2="608" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="460" end1="461" start2="621" end2="622" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="464" end1="465" start2="625" end2="626" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="4" end1="7" start2="4" end2="8" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="8" end1="8" start2="9" end2="12" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="9" end1="10" start2="13" end2="14" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="48" end1="79" start2="52" end2="84" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="110" end1="113" start2="115" end2="118" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="116" end1="117" start2="121" end2="122" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="225" end1="225" start2="230" end2="231" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="229" end1="230" start2="235" end2="235" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="322" end1="323" start2="327" end2="329" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="359" end1="360" start2="365" end2="415" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="368" end1="368" start2="423" end2="521" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="370" end1="371" start2="523" end2="526" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="374" end1="374" start2="529" end2="537" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="377" end1="378" start2="540" end2="540" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="379" end1="380" start2="541" end2="544" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="390" end1="391" start2="554" end2="555" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="393" end1="394" start2="557" end2="558" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="422" end1="424" start2="586" end2="588" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="426" end1="428" start2="590" end2="592" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="430" end1="432" start2="594" end2="596" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="434" end1="435" start2="598" end2="599" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="448" end1="449" start2="612" end2="613" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="451" end1="453" start2="615" end2="617" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="456" end1="457" start2="620" end2="621" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="461" end1="461" start2="625" end2="629" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="474" end1="475" start2="642" end2="643" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="478" end1="479" start2="646" end2="647" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
       </ranges>
     </file>
   </component>
@@ -108,13 +98,13 @@
       <command value="ArrayList" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code667ConstructArray">
-    <configuration name="Code405ToHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.math.Code405ToHex" />
+  <component name="RunManager" selected="Application.Code565ArrayNesting">
+    <configuration name="Code565ArrayNesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.DataStructure.arrayandmatrix.Code565ArrayNesting" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lixuan.math.*" />
+          <option name="PATTERN" value="lixuan.DataStructure.arrayandmatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code565ArrayNesting" />
         <item itemvalue="Application.Code667ConstructArray" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ShoppingCart" />
         <item itemvalue="Application.StrSort" />
-        <item itemvalue="Application.Code405ToHex" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +310,8 @@
       <workItem from="1586934244640" duration="4479000" />
       <workItem from="1587000643089" duration="7059000" />
       <workItem from="1587036339551" duration="5788000" />
-      <workItem from="1587087865555" duration="17444000" />
+      <workItem from="1587087865555" duration="17561000" />
+      <workItem from="1587124020970" duration="8690000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -357,7 +348,63 @@
       <option name="project" value="LOCAL" />
       <updated>1587041444990</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020年4月16日20:45:45 arrayandmatrix">
+      <created>1587041531619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587041531619</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2020年4月16日20:45:45 arrayandmatrix">
+      <created>1587041562502</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587041562502</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2020年4月16日20:45:45 arrayandmatrix">
+      <created>1587041713248</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587041713248</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2020年4月16日21:00:20 arrayandmatrix">
+      <created>1587042030714</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587042030714</updated>
+    </task>
+    <task id="LOCAL-00010" summary="leetcode">
+      <created>1587101785803</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587101785803</updated>
+    </task>
+    <task id="LOCAL-00011" summary="leetcode">
+      <created>1587109508275</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587109508276</updated>
+    </task>
+    <task id="LOCAL-00012" summary="leetcode">
+      <created>1587109537279</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587109537279</updated>
+    </task>
+    <task id="LOCAL-00013" summary="leetcode">
+      <created>1587132657062</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587132657062</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,18 +413,127 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="4">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/IdeaProjects/LeetCode/src/lixuan/daydayup" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+        <option value="4" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leetcode" />
     <MESSAGE value="2020年4月16日20:45:45 arrayandmatrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年4月16日20:45:45 arrayandmatrix" />
+    <MESSAGE value="2020年4月16日21:00:20 arrayandmatrix" />
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583855107409">
@@ -388,10 +544,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584585990325" />
-    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1587109523613">
+    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1587132655843">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587109523613" />
+    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587132655843" />
     <state x="549" y="111" key="FileChooserDialogImpl" timestamp="1587037345699">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -420,37 +576,37 @@
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1587109600022">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587108951948" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1587108951948">
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587109600022" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1587109600022">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1587108951948" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1587108951948">
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1587109600022" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1587109600022">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1587108951948" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1587108951948">
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1587109600022" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1587109600022">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1587108951948" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1587109600022" />
     <state x="408" y="116" width="1000" height="591" key="NewModule_or_Project.wizard" timestamp="1580215294565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="408" y="116" width="1000" height="591" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1580215294565" />
-    <state x="302" y="59" key="SettingsEditor" timestamp="1587041520519">
+    <state x="302" y="59" key="SettingsEditor" timestamp="1587132779294">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580215296580" />
-    <state x="302" y="59" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587041520519" />
+    <state x="302" y="59" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587132779294" />
     <state x="614" y="352" key="VCS.ChangelistChooser" timestamp="1587041678193">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="614" y="352" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1587041678193" />
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587101788745">
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587132659448">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587101788745" />
-    <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587087882030">
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587132659448" />
+    <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587124066250">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580542195484" />
