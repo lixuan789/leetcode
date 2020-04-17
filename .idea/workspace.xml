@@ -46,23 +46,37 @@
   <component name="LineStatusTrackerManager">
     <file path="$PROJECT_DIR$/.idea/workspace.xml">
       <ranges>
-        <range start1="3" end1="287" start2="3" end2="12" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="320" end1="320" start2="45" end2="68" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="489" end1="489" start2="237" end2="238" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="558" end1="559" start2="307" end2="309" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="595" end1="596" start2="345" end2="374" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="604" end1="604" start2="382" end2="455" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="606" end1="607" start2="457" end2="460" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="611" end1="611" start2="464" end2="471" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="615" end1="616" start2="475" end2="477" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="626" end1="627" start2="487" end2="488" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="629" end1="630" start2="490" end2="491" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="684" end1="685" start2="545" end2="546" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="687" end1="689" start2="548" end2="550" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="692" end1="693" start2="553" end2="554" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="697" end1="697" start2="558" end2="562" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="710" end1="711" start2="575" end2="576" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="714" end1="715" start2="579" end2="580" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="4" end1="7" start2="4" end2="6" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="48" end1="65" start2="47" end2="78" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="96" end1="97" start2="109" end2="110" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="110" end1="112" start2="123" end2="125" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="115" end1="116" start2="128" end2="129" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="211" end1="211" start2="224" end2="225" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="215" end1="216" start2="229" end2="229" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="308" end1="309" start2="321" end2="322" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="345" end1="346" start2="358" end2="394" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="354" end1="354" start2="402" end2="500" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="356" end1="357" start2="502" end2="505" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="361" end1="361" start2="509" end2="517" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="363" end1="364" start2="519" end2="519" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="365" end1="366" start2="520" end2="523" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="376" end1="377" start2="533" end2="534" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="379" end1="380" start2="536" end2="537" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="389" end1="390" start2="546" end2="547" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="392" end1="394" start2="549" end2="551" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="396" end1="398" start2="553" end2="555" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="400" end1="402" start2="557" end2="559" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="404" end1="406" start2="561" end2="563" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="408" end1="410" start2="565" end2="567" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="412" end1="414" start2="569" end2="571" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="416" end1="418" start2="573" end2="575" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="420" end1="421" start2="577" end2="578" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="434" end1="435" start2="591" end2="592" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="437" end1="439" start2="594" end2="596" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="442" end1="443" start2="599" end2="600" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="447" end1="447" start2="604" end2="608" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="460" end1="461" start2="621" end2="622" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="464" end1="465" start2="625" end2="626" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
       </ranges>
     </file>
   </component>
@@ -94,7 +108,7 @@
       <command value="ArrayList" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Code667ConstructArray">
     <configuration name="Code405ToHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lixuan.math.Code405ToHex" />
       <module name="LeetCode" />
@@ -108,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code8myAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.daydayup.Code8myAtoi" />
+    <configuration name="Code667ConstructArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.DataStructure.arrayandmatrix.Code667ConstructArray" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lixuan.daydayup.*" />
+          <option name="PATTERN" value="lixuan.DataStructure.arrayandmatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code667ConstructArray" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ShoppingCart" />
         <item itemvalue="Application.StrSort" />
         <item itemvalue="Application.Code405ToHex" />
-        <item itemvalue="Application.Code8myAtoi" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +320,7 @@
       <workItem from="1586934244640" duration="4479000" />
       <workItem from="1587000643089" duration="7059000" />
       <workItem from="1587036339551" duration="5788000" />
-      <workItem from="1587087865555" duration="10496000" />
+      <workItem from="1587087865555" duration="17444000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -374,10 +388,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584585990325" />
-    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1587041700816">
+    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1587101784638">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587041700816" />
+    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587101784638" />
     <state x="549" y="111" key="FileChooserDialogImpl" timestamp="1587037345699">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -387,38 +401,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1587036727557" />
-    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1586322809560">
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1587108951947">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
-    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1586322809560">
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587108951947" />
+    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1587108951947">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
-    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1586322809560">
+    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587108951947" />
+    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1587108951947">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
-    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1586322809560">
+    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587108951947" />
+    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1587108951947">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1586322809560">
+    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587108951947" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1587108951948">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1586322809560">
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587108951948" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1587108951948">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1586322809560">
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1587108951948" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1587108951948">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1586322809560">
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1587108951948" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1587108951948">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1586322809560" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1587108951948" />
     <state x="408" y="116" width="1000" height="591" key="NewModule_or_Project.wizard" timestamp="1580215294565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -432,11 +446,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="614" y="352" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1587041678193" />
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587041448511">
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587101788745">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587041448511" />
-    <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587036341223">
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587101788745" />
+    <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587087882030">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580542195484" />
