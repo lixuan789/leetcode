@@ -1,290 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code131partition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code17letterCombinations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code216combinationSum3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code37solveSudoku.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code40combinationSum2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code51solveNQueens.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code90subsetsWithDup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/Backtracking/Code93restoreIpAddresses.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/ListNode/Code160GetIntersectionNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/ListNode/Code24ReverseList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/ListNode/Code24SwapPairs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/bfs/Code1091shortestPathBinaryMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/bfs/Code127ladderLength.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/bfs/Code200numIslands.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/bfs/Code279numSquares.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/binarySearch/Code34searchRange.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/binarySearch/Code540singleNonDuplicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code1160countCharacters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code130solve.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code145PostorderTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code300LengthOfLIS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code409longestPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code40getLeastNumbers$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code40getLeastNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code417pacificAtlantic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code80removeDuplicates.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code820$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code820.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code836isRectangleOverlap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code876middleNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code892surfaceArea.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code8myAtoi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code994orangesRotting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Code999numRookCaptures.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/CodeRotate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/PermuteUnique_47.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/Trie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/daydayup/massage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dfs/Code386lexicalOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dfs/Code547findCircleNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dfs/Code695maxAreaOfIsland.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/divideAndConquer/Code241diffWaysToCompute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/divideAndConquer/Code95generateTrees.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/doublePointer/Code345reverseVowels.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/doublePointer/Code524findLongestWord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/doublePointer/Code633judgeSquareSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/doublePointer/Code680validPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code115numDistinct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code139WordBreak.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code213rob.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code309MaxProfit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code322CoinChange.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code343integerBreak.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code376wiggleMaxLength.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code377CombinationSum4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code413NumberOfArithmeticSlices.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code416canPartition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code474FindMaxForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code494findTargetSumWays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code583MinDistance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code62uniquePaths.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code646findLongestChain$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code646findLongestChain$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code646findLongestChain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code650MinSteps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code72minDistance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code91numDecodings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/NumArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code121maxProfit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code392isSubsequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code406reconstructQueue$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code406reconstructQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code435eraseOverlapIntervals$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code435eraseOverlapIntervals$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code435eraseOverlapIntervals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code452findMinArrowShots$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code452findMinArrowShots.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code455findContentChildren.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code605canPlaceFlowers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code665checkPossibility.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code763partitionLabels.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/huawei/Count.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/huawei/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/huawei/Random.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/huawei/ShoppingCart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/huawei/StrSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/BasicKnowledge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code168ConvertToTitle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code172TrailingZeroes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code204CountPrimes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code238ProductExceptSelf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code367IsPerfectSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code405ToHex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code415AddStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code462MinMoves2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code504ConvertToBase7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code628MaximumProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code67AddBinary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code215findKthLargest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code215findKthLargest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code347topKFrequent$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code347topKFrequent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code451frequencySort$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code451frequencySort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/sort/Code75sortColors.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test1/CheckStraightLine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test1/MaxPathSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test1/RelativeSortArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test2/constructMaximumBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test2/prefixesDivBy5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test3/closedIsland.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test3/sampleStats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test4/BuyingAHat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test4/ComingHome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test4/Sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/test/test4/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/utils/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/utils/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/utils/UF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code131partition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code17letterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code216combinationSum3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code37solveSudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code40combinationSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code51solveNQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code90subsetsWithDup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code93restoreIpAddresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code160GetIntersectionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code24ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code24SwapPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code328OddEvenList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code445AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code725SplitListToParts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/hashtable/Code128LongestConsecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/hashtable/Code1TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/hashtable/Code217ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/hashtable/Code594FindLHS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/Code20IsValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/Code503NextGreaterElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/string/Code205IsIsomorphic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/string/Code647CountSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/string/Code696CountBinarySubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/string/Code9IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code101IsSymmetric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code108SortedArrayToBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code109SortedListToBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code112hHasPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code226InvertTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code230KthSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code235LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code236LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code337Rob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code404SumOfLeftLeaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code437PathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code501FindMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code513FindBottomLeftValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code530GetMinimumDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code538ConvertBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code543DiameterOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code572IsSubtree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code617MergeTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code637AverageOfLevels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code653FindTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code669TrimBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code671FindSecondMinimumValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code687LongestUnivaluePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/MapSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/order/InOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/order/postOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/order/preOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/bfs/Code1091shortestPathBinaryMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/bfs/Code127ladderLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/bfs/Code200numIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/bfs/Code279numSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/binarySearch/Code34searchRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/binarySearch/Code540singleNonDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code1160countCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code130solve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code145PostorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code300LengthOfLIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code409longestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code40getLeastNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code417pacificAtlantic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code542UpdateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code56merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code80removeDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code820.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code836isRectangleOverlap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code876middleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code892surfaceArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code8myAtoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code994orangesRotting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code999numRookCaptures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/CodeRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/PermuteUnique_47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/massage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dfs/Code386lexicalOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dfs/Code547findCircleNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dfs/Code695maxAreaOfIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/divideAndConquer/Code241diffWaysToCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/divideAndConquer/Code95generateTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/doublePointer/Code345reverseVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/doublePointer/Code524findLongestWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/doublePointer/Code633judgeSquareSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/doublePointer/Code680validPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code115numDistinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code139WordBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code213rob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code309MaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code322CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code343integerBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code376wiggleMaxLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code377CombinationSum4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code413NumberOfArithmeticSlices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code474FindMaxForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code494findTargetSumWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code583MinDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code62uniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code646findLongestChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code650MinSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code72minDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code91numDecodings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code121maxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code392isSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code406reconstructQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code435eraseOverlapIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code452findMinArrowShots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code455findContentChildren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code605canPlaceFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code665checkPossibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code763partitionLabels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/StrSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/huawei/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/BasicKnowledge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code168ConvertToTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code172TrailingZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code204CountPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code238ProductExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code367IsPerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code405ToHex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code415AddStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code462MinMoves2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code504ConvertToBase7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code628MaximumProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/math/Code67AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/Code215findKthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/Code347topKFrequent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/Code451frequencySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/Code75sortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test1/CheckStraightLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test1/MaxPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test1/RelativeSortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test2/constructMaximumBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test2/prefixesDivBy5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test3/closedIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test3/sampleStats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test4/BuyingAHat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test4/ComingHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test4/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/test/test4/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/utils/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/utils/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/utils/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/utils/UF.java" afterDir="false" />
+    <list default="true" id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/arrayandmatrix/Code378KthSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/arrayandmatrix/Code645FindErrorNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code55canJump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,6 +42,29 @@
         <option value="D:\IdeaProjects\LeetCode\.idea" />
       </set>
     </option>
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="3" end1="287" start2="3" end2="12" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="320" end1="320" start2="45" end2="68" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="489" end1="489" start2="237" end2="238" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="558" end1="559" start2="307" end2="309" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
+        <range start1="595" end1="596" start2="345" end2="374" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="604" end1="604" start2="382" end2="455" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="606" end1="607" start2="457" end2="460" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="611" end1="611" start2="464" end2="471" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="615" end1="616" start2="475" end2="477" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="626" end1="627" start2="487" end2="488" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="629" end1="630" start2="490" end2="491" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="684" end1="685" start2="545" end2="546" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="687" end1="689" start2="548" end2="550" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="692" end1="693" start2="553" end2="554" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="697" end1="697" start2="558" end2="562" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="710" end1="711" start2="575" end2="576" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+        <range start1="714" end1="715" start2="579" end2="580" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
+      </ranges>
+    </file>
   </component>
   <component name="ProjectId" id="1WncuQXkF1L9onr7MLseN0WoTIK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -487,6 +235,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="" />
+      <changelist id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="" />
       <created>1579789021632</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -556,7 +305,8 @@
       <workItem from="1586915823096" duration="6859000" />
       <workItem from="1586934244640" duration="4479000" />
       <workItem from="1587000643089" duration="7059000" />
-      <workItem from="1587036339551" duration="5135000" />
+      <workItem from="1587036339551" duration="5788000" />
+      <workItem from="1587087865555" duration="10496000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
