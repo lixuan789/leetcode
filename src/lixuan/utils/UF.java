@@ -4,9 +4,9 @@ package lixuan.utils;
  * 并查集
  */
 public class UF {
-    private int count;//连通分量的个数
-    private int[] parent;//存储一个树
-    private int[] size;//树中节点的个数
+    public int count;//连通分量的个数
+    public int[] parent;//存储一个树
+    public int[] size;//树中节点的个数
 
     public UF(int n) {
         this.count = n;
