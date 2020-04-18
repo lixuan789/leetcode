@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/graph/Code207canFinish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/graph/Code210findOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/graph/Code785IsBipartite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code11maxArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="2020年4月16日20:45:45 arrayandmatrix">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,39 +39,6 @@
         <option value="D:\IdeaProjects\LeetCode\.idea" />
       </set>
     </option>
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="4" end1="7" start2="4" end2="8" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="8" end1="8" start2="9" end2="12" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="9" end1="10" start2="13" end2="14" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="48" end1="79" start2="52" end2="84" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="110" end1="113" start2="115" end2="118" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="116" end1="117" start2="121" end2="122" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="225" end1="225" start2="230" end2="231" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="229" end1="230" start2="235" end2="235" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="322" end1="323" start2="327" end2="329" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="359" end1="360" start2="365" end2="415" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="368" end1="368" start2="423" end2="521" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="370" end1="371" start2="523" end2="526" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="374" end1="374" start2="529" end2="537" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="377" end1="378" start2="540" end2="540" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="379" end1="380" start2="541" end2="544" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="390" end1="391" start2="554" end2="555" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="393" end1="394" start2="557" end2="558" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="422" end1="424" start2="586" end2="588" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="426" end1="428" start2="590" end2="592" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="430" end1="432" start2="594" end2="596" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="434" end1="435" start2="598" end2="599" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="448" end1="449" start2="612" end2="613" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="451" end1="453" start2="615" end2="617" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="456" end1="457" start2="620" end2="621" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="461" end1="461" start2="625" end2="629" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="474" end1="475" start2="642" end2="643" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="478" end1="479" start2="646" end2="647" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectId" id="1WncuQXkF1L9onr7MLseN0WoTIK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -311,7 +281,8 @@
       <workItem from="1587000643089" duration="7059000" />
       <workItem from="1587036339551" duration="5788000" />
       <workItem from="1587087865555" duration="17561000" />
-      <workItem from="1587124020970" duration="8690000" />
+      <workItem from="1587124020970" duration="8926000" />
+      <workItem from="1587177010200" duration="9655000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -404,7 +375,35 @@
       <option name="project" value="LOCAL" />
       <updated>1587132657062</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="leetcode">
+      <created>1587132789564</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587132789564</updated>
+    </task>
+    <task id="LOCAL-00015" summary="leetcode">
+      <created>1587132845236</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587132845236</updated>
+    </task>
+    <task id="LOCAL-00016" summary="leetcode">
+      <created>1587132870765</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587132870765</updated>
+    </task>
+    <task id="LOCAL-00017" summary="leetcode">
+      <created>1587132954090</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1587132954090</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,10 +543,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584585990325" />
-    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1587132869704">
+    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1587132953064">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587132869704" />
+    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587132953064" />
     <state x="549" y="111" key="FileChooserDialogImpl" timestamp="1587037345699">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -557,22 +556,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1587036727557" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1587132873078">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1587133016471">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587132873078" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1587132873078">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587133016471" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1587133016471">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587132873078" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1587132873078">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587133016471" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1587133016471">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587132873078" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1587132873078">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587133016471" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1587133016471">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587132873078" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587133016471" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1587109600022">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -602,19 +601,23 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="614" y="352" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1587041678193" />
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587132857518">
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587132957374">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587132857518" />
-    <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587124066250">
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587132957374" />
+    <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587177008804">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580542195484" />
-    <state x="461" y="253" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587036341223" />
+    <state x="461" y="253" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587177008804" />
     <state x="308" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586832541856">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="308" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1586832541856" />
+    <state x="564" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587041298676">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="564" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1587041298676" />
     <state x="178" y="29" key="new project wizard" timestamp="1580542224104">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -628,11 +631,11 @@
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580198498975" />
     <state x="425" y="196" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586317046466" />
-    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1587039799243">
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1587190535691">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580117140122" />
-    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587039799243" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587190535691" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$Triangle.ic" NAME="Triangle Coverage Results" MODIFIED="1585367559357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
