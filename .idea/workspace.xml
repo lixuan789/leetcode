@@ -19,10 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="2020年4月16日20:45:45 arrayandmatrix">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/graph/Code684FindRedundantConnection.java" afterDir="false" />
+    <list default="true" id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="leetcode">
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code257BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code39combinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code46permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/io/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/arrayandmatrix/Code565ArrayNesting$UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/arrayandmatrix/Code565ArrayNesting$UF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/arrayandmatrix/Code565ArrayNesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/arrayandmatrix/Code565ArrayNesting.class" afterDir="false" />
     </list>
     <list id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +56,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
@@ -59,7 +69,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -72,7 +82,7 @@
       <command value="ArrayList" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code565ArrayNesting">
+  <component name="RunManager" selected="Application.test">
     <configuration name="Code565ArrayNesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lixuan.DataStructure.arrayandmatrix.Code565ArrayNesting" />
       <module name="LeetCode" />
@@ -112,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingCart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.huawei.ShoppingCart" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.io.test" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lixuan.huawei.*" />
+          <option name="PATTERN" value="lixuan.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,15 +135,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.huawei.StrSort" />
+    <configuration name="test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lixuan.huawei.*" />
+          <option name="PATTERN" value="lixuan.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="PACKAGE_NAME" value="lixuan.io" />
+      <option name="MAIN_CLASS_NAME" value="lixuan.io.test" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -185,13 +202,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Code565ArrayNesting" />
+      <item itemvalue="Application.Code667ConstructArray" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="JUnit.test.test1" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.test.test1" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Code565ArrayNesting" />
         <item itemvalue="Application.Code667ConstructArray" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ShoppingCart" />
-        <item itemvalue="Application.StrSort" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +300,11 @@
       <workItem from="1587124020970" duration="8926000" />
       <workItem from="1587177010200" duration="9858000" />
       <workItem from="1587300981024" duration="777000" />
-      <workItem from="1587436735794" duration="690000" />
+      <workItem from="1587436735794" duration="2706000" />
+      <workItem from="1587459481454" duration="72000" />
+      <workItem from="1587527170225" duration="89000" />
+      <workItem from="1587696166242" duration="1354000" />
+      <workItem from="1587816708456" duration="8642000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -404,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587191583367</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="leetcode">
+      <created>1587437450162</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587437450163</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,59 +570,67 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583855107409">
+    <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587438525381">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583855107409" />
+    <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587438525381" />
+    <state x="548" y="141" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1587438512059">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="141" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" timestamp="1587438512059" />
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1584585990325">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584585990325" />
-    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1587191582417">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1587437448010">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587191582417" />
-    <state x="549" y="111" key="FileChooserDialogImpl" timestamp="1587037345699">
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587437448010" />
+    <state x="626" y="182" key="EnvironmentVariablesDialog" timestamp="1587438522273">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="626" y="182" key="EnvironmentVariablesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587438522273" />
+    <state x="549" y="111" key="FileChooserDialogImpl" timestamp="1587438413440">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="106" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580280003096" />
-    <state x="549" y="111" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587037345699" />
+    <state x="549" y="111" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587438413440" />
     <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog" timestamp="1587036727557">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1587036727557" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1587133016471">
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1587439886093">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587133016471" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1587133016471">
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
+    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1587439886093">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587133016471" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1587133016471">
+    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
+    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1587439886092">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587133016471" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1587133016471">
+    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587439886092" />
+    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1587439886093">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587133016471" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1587109600022">
+    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1587439886094">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587109600022" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1587109600022">
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587439886094" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1587439886093">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1587109600022" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1587109600022">
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1587439886093">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1587109600022" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1587109600022">
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1587439886093">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1587109600022" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
     <state x="408" y="116" width="1000" height="591" key="NewModule_or_Project.wizard" timestamp="1580215294565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -596,24 +639,28 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="586" y="146" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587191630912" />
-    <state x="302" y="59" key="SettingsEditor" timestamp="1587437431196">
+    <state x="302" y="13" key="SettingsEditor" timestamp="1587438340307">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580215296580" />
-    <state x="302" y="59" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587437431196" />
+    <state x="302" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587438340307" />
     <state x="614" y="352" key="VCS.ChangelistChooser" timestamp="1587041678193">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="614" y="352" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1587041678193" />
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587191585193">
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587437452729">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587191585193" />
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587437452729" />
     <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587300981609">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580542195484" />
     <state x="461" y="253" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587300981609" />
+    <state x="485" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587438061859">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="485" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1587438061859" />
     <state x="308" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586832541856">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -626,10 +673,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580542224104" />
-    <state x="472" y="65" key="refactoring.ChangeSignatureDialog" timestamp="1584006267640">
+    <state x="472" y="65" key="refactoring.ChangeSignatureDialog" timestamp="1587824039856">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="472" y="65" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1584006267640" />
+    <state x="472" y="65" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1587824039856" />
     <state x="425" y="196" width="672" height="677" key="run.anything.popup" timestamp="1586317046466">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
