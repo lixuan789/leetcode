@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code257BinaryTreePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code39combinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code46permute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/io/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code64minPathSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/arrayandmatrix/Code565ArrayNesting$UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/arrayandmatrix/Code565ArrayNesting$UF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/arrayandmatrix/Code565ArrayNesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/arrayandmatrix/Code565ArrayNesting.class" afterDir="false" />
     </list>
     <list id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +44,9 @@
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="1WncuQXkF1L9onr7MLseN0WoTIK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -304,7 +299,8 @@
       <workItem from="1587459481454" duration="72000" />
       <workItem from="1587527170225" duration="89000" />
       <workItem from="1587696166242" duration="1354000" />
-      <workItem from="1587816708456" duration="8642000" />
+      <workItem from="1587816708456" duration="8675000" />
+      <workItem from="1587866295904" duration="2663000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -439,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587437450163</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="leetcode">
+      <created>1587826006722</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1587826006722</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,10 +585,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584585990325" />
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1587437448010">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1587826029964">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587437448010" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587826029964" />
     <state x="626" y="182" key="EnvironmentVariablesDialog" timestamp="1587438522273">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
