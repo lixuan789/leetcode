@@ -53,7 +53,6 @@ public class Code416canPartition {
                 dp[0][i] = true;
             }
         }
-
         //状态转移方程：dp[m][n] = dp[m-1][n] || dp[m-1][n-nums[m]]
         for (int i = 1; i < n; i++) {
             for (int j = 0; j <= c; j++) {
@@ -64,5 +63,34 @@ public class Code416canPartition {
             }
         }
         return dp[n - 1][c];
+    }
+
+    /**
+     * 优化
+     * @param nums
+     * @return
+     */
+    public boolean canPartition1(int[] nums) {
+        int sum = computeArraySum(nums);
+        if (sum % 2 != 0) {
+            return false;
+        }
+        int W = sum / 2;
+        boolean[] dp = new boolean[W + 1];
+        dp[0] = true;
+        for (int num : nums) {                 // 0-1 背包一个物品只能用一次
+            for (int i = W; i >= num; i--) {   // 从后往前，先计算 dp[i] 再计算 dp[i-num]
+                dp[i] = dp[i] || dp[i - num];
+            }
+        }
+        return dp[W];
+    }
+
+    private int computeArraySum(int[] nums) {
+        int sum = 0;
+        for (int num : nums) {
+            sum += num;
+        }
+        return sum;
     }
 }

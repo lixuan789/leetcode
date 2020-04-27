@@ -19,6 +19,13 @@ package lixuan.dp;
  * 解释: 总共 4 个字符串可以通过 5 个 0 和 3 个 1 拼出，即 "10","0001","1","0" 。
  */
 public class Code474FindMaxForm {
+    /**
+     * 这是一个多维费用的 0-1 背包问题，有两个背包大小，0 的数量和 1 的数量。
+     * @param strs
+     * @param m
+     * @param n
+     * @return
+     */
     public int findMaxForm(String[] strs, int m, int n) {
         int len = strs.length;
         int[][][] dp = new int[len + 1][m + 1][n + 1];
@@ -44,6 +51,13 @@ public class Code474FindMaxForm {
         return dp[len][m][n];
     }
 
+    /**
+     * 优化
+     * @param strs
+     * @param m
+     * @param n
+     * @return
+     */
     public int findMaxForm1(String[] strs, int m, int n) {
         int len = strs.length;
         int[][] dp = new int[m + 1][n + 1];
