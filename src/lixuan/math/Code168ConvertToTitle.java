@@ -40,4 +40,17 @@ public class Code168ConvertToTitle {
         }
         return sb.reverse().toString();
     }
+
+    /**
+     * 因为是从 1 开始计算的，而不是从 0 开始，因此需要对 n 执行 -1 操作。
+     * @param n
+     * @return
+     */
+    public String convertToTitle1(int n) {
+        if (n == 0) {
+            return "";
+        }
+        n--;
+        return convertToTitle1(n / 26) + (char) (n % 26 + 'A');
+    }
 }

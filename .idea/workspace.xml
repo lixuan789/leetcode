@@ -20,17 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code01backpack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code1143longestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code123maxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code188maxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code300lengthOfLIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/dp/Code714maxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code234isPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code83deleteDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code110isBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/tree/Code111minDepth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lixuan/dp/Code376wiggleMaxLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/dp/Code376wiggleMaxLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lixuan/dp/Code474FindMaxForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/dp/Code474FindMaxForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lixuan/dp/Code583MinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/dp/Code583MinDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code160GetIntersectionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/ListNode/Code160GetIntersectionNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lixuan/math/Code168ConvertToTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/math/Code168ConvertToTitle.java" afterDir="false" />
     </list>
     <list id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="leetcode">
       <change beforePath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" afterDir="false" />
@@ -53,15 +49,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java">
-      <ranges>
-        <range start1="46" end1="47" start2="46" end2="46" changelist="ef55efbb-0c22-4d0f-880b-cae1341a6838" />
-        <range start1="55" end1="56" start2="54" end2="54" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-        <range start1="67" end1="67" start2="65" end2="94" changelist="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectId" id="1WncuQXkF1L9onr7MLseN0WoTIK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -321,7 +308,8 @@
       <workItem from="1587696166242" duration="1354000" />
       <workItem from="1587816708456" duration="8675000" />
       <workItem from="1587866295904" duration="2690000" />
-      <workItem from="1587953765314" duration="13441000" />
+      <workItem from="1587953765314" duration="15112000" />
+      <workItem from="1587989802672" duration="9027000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -470,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587873899217</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="leetcode">
+      <created>1587977183580</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1587977183580</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,10 +608,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584585990325" />
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1587873897706">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1587977182076">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587873897706" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587977182076" />
     <state x="626" y="182" key="EnvironmentVariablesDialog" timestamp="1587438522273">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -679,10 +674,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="614" y="352" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1587960224493" />
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587873902117">
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587977191074">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587873902117" />
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587977191074" />
     <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587300981609">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -713,11 +708,11 @@
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580198498975" />
     <state x="425" y="196" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586317046466" />
-    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1587190535691">
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1587993835606">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580117140122" />
-    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587190535691" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587993835606" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$Triangle.ic" NAME="Triangle Coverage Results" MODIFIED="1585367559357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
