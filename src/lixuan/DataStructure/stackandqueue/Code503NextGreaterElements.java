@@ -1,5 +1,6 @@
 package lixuan.DataStructure.stackandqueue;
 
+import java.util.Arrays;
 import java.util.Stack;
 
 /**
@@ -45,5 +46,27 @@ public class Code503NextGreaterElements {
             }
         }
         return res;
+    }
+
+    /**
+     * 循环数组
+     * @param nums
+     * @return
+     */
+    public int[] nextGreaterElements1(int[] nums) {
+        int n = nums.length;
+        int[] next = new int[n];
+        Arrays.fill(next, -1);
+        Stack<Integer> pre = new Stack<>();
+        for (int i = 0; i < n * 2; i++) {
+            int num = nums[i % n];
+            while (!pre.isEmpty() && nums[pre.peek()] < num) {
+                next[pre.pop()] = num;
+            }
+            if (i < n){
+                pre.push(i);
+            }
+        }
+        return next;
     }
 }
