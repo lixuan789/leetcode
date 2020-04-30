@@ -20,10 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/hashtable/Code535Codec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/Code739dailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/huawei/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/test/huawei/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/Code503NextGreaterElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/stackandqueue/Code503NextGreaterElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/ListNode/Code160GetIntersectionNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/ListNode/Code160GetIntersectionNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/stackandqueue/Code503NextGreaterElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/DataStructure/stackandqueue/Code503NextGreaterElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code376wiggleMaxLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code376wiggleMaxLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code416canPartition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code416canPartition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code474FindMaxForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code474FindMaxForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code583MinDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/dp/Code583MinDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code168ConvertToTitle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/math/Code168ConvertToTitle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lixuan/DataStructure/arrayandmatrix/Code565ArrayNesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/arrayandmatrix/Code565ArrayNesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lixuan/DataStructure/arrayandmatrix/Code766isToeplitzMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/DataStructure/arrayandmatrix/Code766isToeplitzMatrix.java" afterDir="false" />
     </list>
     <list id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="leetcode">
       <change beforePath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" afterDir="false" />
@@ -81,7 +89,7 @@
       <command value="ArrayList" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Code565ArrayNesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lixuan.DataStructure.arrayandmatrix.Code565ArrayNesting" />
       <module name="LeetCode" />
@@ -108,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.huawei.Main" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.test.huawei.Main2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lixuan.huawei.*" />
+          <option name="PATTERN" value="lixuan.test.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,17 +212,17 @@
     <list>
       <item itemvalue="Application.Code565ArrayNesting" />
       <item itemvalue="Application.Code667ConstructArray" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.test" />
+      <item itemvalue="Application.Main2" />
       <item itemvalue="JUnit.test.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="JUnit.test.test1" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Code565ArrayNesting" />
         <item itemvalue="Application.Code667ConstructArray" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +315,9 @@
       <workItem from="1587866295904" duration="2690000" />
       <workItem from="1587953765314" duration="15112000" />
       <workItem from="1587989802672" duration="9126000" />
-      <workItem from="1588034820361" duration="8824000" />
+      <workItem from="1588034820361" duration="9471000" />
+      <workItem from="1588154160372" duration="1059000" />
+      <workItem from="1588233304955" duration="2152000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -470,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587999007552</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="leetcode">
+      <created>1588047396775</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1588047396775</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,10 +630,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584585990325" />
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1587999006768">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1588047395165">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587999006768" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1588047395165" />
     <state x="626" y="182" key="EnvironmentVariablesDialog" timestamp="1587438522273">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -630,22 +647,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1587036727557" />
-    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1587439886093">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1588157681593">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
-    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1587439886093">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588157681593" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1588157681593">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
-    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1587439886092">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588157681593" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1588157681593">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587439886092" />
-    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1587439886093">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588157681593" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1588157681593">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588157681593" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1587439886094">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -679,10 +696,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="614" y="352" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1587960224493" />
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587999013786">
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1588047399547">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587999013786" />
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1588047399547" />
     <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587300981609">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
