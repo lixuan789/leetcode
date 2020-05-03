@@ -76,7 +76,7 @@
       <command value="ArrayList" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.test2">
+  <component name="RunManager" selected="Application.test (1)">
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lixuan.test.huawei.Main2" />
       <module name="LeetCode" />
@@ -205,8 +205,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test2" />
         <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.test2" />
         <item itemvalue="Application.test1" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="JUnit.test.test1" />
@@ -305,7 +305,7 @@
       <workItem from="1588034820361" duration="9471000" />
       <workItem from="1588154160372" duration="1059000" />
       <workItem from="1588233304955" duration="3320000" />
-      <workItem from="1588491874293" duration="3060000" />
+      <workItem from="1588491874293" duration="3179000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -489,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588494772288</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="leetcode">
+      <created>1588494944189</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1588494944189</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,10 +639,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1588492117564" />
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1588494771078">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1588494943151">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1588494771078" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1588494943151" />
     <state x="626" y="182" key="EnvironmentVariablesDialog" timestamp="1587438522273">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -689,19 +696,19 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="586" y="146" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587191630912" />
-    <state x="302" y="13" key="SettingsEditor" timestamp="1588494937824">
+    <state x="302" y="13" key="SettingsEditor" timestamp="1588495056548">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580215296580" />
-    <state x="302" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588494937824" />
+    <state x="302" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588495056548" />
     <state x="614" y="352" key="VCS.ChangelistChooser" timestamp="1587960224493">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="614" y="352" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1587960224493" />
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1588494775202">
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1588494947540">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1588494775202" />
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1588494947540" />
     <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587300981609">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

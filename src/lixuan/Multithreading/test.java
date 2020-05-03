@@ -14,7 +14,7 @@ public class test {
         threadA=new Thread(new Runnable() {
             @Override
             public void run() {
-                for (int i=0;i<10;i++){
+                for (int i=0;i<20;i+=2){
                     System.out.println(Thread.currentThread().getName()+""+i);
                     LockSupport.unpark(threadB);
                     LockSupport.park();
@@ -24,7 +24,7 @@ public class test {
         threadB=new Thread(new Runnable() {
             @Override
             public void run() {
-                for (int i=0;i<10;i++){
+                for (int i=1;i<20;i+=2){
                     LockSupport.park();
                     System.out.println(Thread.currentThread().getName()+""+i);
                     LockSupport.unpark(threadA);
