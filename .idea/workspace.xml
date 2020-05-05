@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="leetcode" />
+    <list default="true" id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="leetcode">
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Multithreading/PAC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Multithreading/PAC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Multithreading/productAndConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="leetcode">
       <change beforePath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" afterDir="false" />
     </list>
@@ -76,13 +81,39 @@
       <command value="ArrayList" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.test (1)">
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.test.huawei.Main2" />
+  <component name="RunManager" selected="Application.PAC2">
+    <configuration name="PAC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.Multithreading.PAC1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lixuan.test.huawei.*" />
+          <option name="PATTERN" value="lixuan.Multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PAC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.Multithreading.PAC2" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.Multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="productAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.Multithreading.productAndConsumer" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,19 +134,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.Multithreading.test" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lixuan.Multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lixuan.Multithreading.test2" />
       <module name="LeetCode" />
@@ -125,26 +143,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lixuan.io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="13" />
-      <option name="PACKAGE_NAME" value="lixuan.io" />
-      <option name="MAIN_CLASS_NAME" value="lixuan.io.test" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -197,19 +195,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main2" />
-      <item itemvalue="JUnit.test.test1" />
-      <item itemvalue="Application.test (1)" />
       <item itemvalue="Application.test1" />
       <item itemvalue="Application.test2" />
+      <item itemvalue="Application.productAndConsumer" />
+      <item itemvalue="Application.PAC1" />
+      <item itemvalue="Application.PAC2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.PAC2" />
+        <item itemvalue="Application.PAC1" />
+        <item itemvalue="Application.productAndConsumer" />
         <item itemvalue="Application.test2" />
         <item itemvalue="Application.test1" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="JUnit.test.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +303,8 @@
       <workItem from="1588034820361" duration="9471000" />
       <workItem from="1588154160372" duration="1059000" />
       <workItem from="1588233304955" duration="3320000" />
-      <workItem from="1588491874293" duration="3179000" />
+      <workItem from="1588491874293" duration="5356000" />
+      <workItem from="1588658303488" duration="4220000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -496,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588494944189</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="leetcode">
+      <created>1588495294612</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1588495294612</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,14 +641,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="548" y="141" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" timestamp="1587438512059" />
-    <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1588492117564">
+    <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1588666783766">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1588492117564" />
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1588494943151">
+    <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1588666783766" />
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1588495293588">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1588494943151" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1588495293588" />
     <state x="626" y="182" key="EnvironmentVariablesDialog" timestamp="1587438522273">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -656,22 +662,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1587036727557" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1588494669026">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1588668499673">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588494669026" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1588494669026">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588668499673" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1588668499673">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588494669026" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1588494669026">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588668499673" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1588668499672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588494669026" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1588494669026">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588668499672" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1588668499673">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588494669026" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588668499673" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1587439886094">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
