@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code15threeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code554LeastBricks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/LengthOfLongestSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="leetcode">
@@ -309,7 +306,11 @@
       <workItem from="1588491874293" duration="5356000" />
       <workItem from="1588658303488" duration="5008000" />
       <workItem from="1588755674055" duration="2063000" />
-      <workItem from="1588767735119" duration="3129000" />
+      <workItem from="1588767735119" duration="3154000" />
+      <workItem from="1588840943764" duration="5000" />
+      <workItem from="1589092552387" duration="2679000" />
+      <workItem from="1589169349055" duration="3541000" />
+      <workItem from="1589197761775" duration="1087000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -514,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588668957113</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="leetcode">
+      <created>1588774925224</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1588774925225</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,39 +665,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1588666783766" />
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1588668954670">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1588774924021">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1588668954670" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1588774924021" />
     <state x="626" y="182" key="EnvironmentVariablesDialog" timestamp="1587438522273">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="626" y="182" key="EnvironmentVariablesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587438522273" />
-    <state x="549" y="111" key="FileChooserDialogImpl" timestamp="1587438413440">
+    <state x="549" y="111" key="FileChooserDialogImpl" timestamp="1589180948681">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="106" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580280003096" />
-    <state x="549" y="111" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587438413440" />
+    <state x="549" y="111" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1589180948681" />
     <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog" timestamp="1587036727557">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1587036727557" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1588774914374">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1588774940655">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588774914374" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1588774914374">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588774940655" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1588774940655">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588774914374" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1588774914374">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588774940655" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1588774940655">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588774914374" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1588774914374">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588774940655" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1588774940655">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588774914374" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588774940655" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1587439886094">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -706,10 +713,6 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
-    <state x="408" y="116" width="1000" height="591" key="NewModule_or_Project.wizard" timestamp="1580215294565">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="408" y="116" width="1000" height="591" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1580215294565" />
     <state x="586" y="146" key="RollbackChangesDialog" timestamp="1587191630912">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -717,20 +720,18 @@
     <state x="302" y="13" key="SettingsEditor" timestamp="1588495056548">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580215296580" />
     <state x="302" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588495056548" />
     <state x="614" y="352" key="VCS.ChangelistChooser" timestamp="1587960224493">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="614" y="352" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1587960224493" />
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1588668960771">
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1588774927250">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1588668960771" />
+    <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1588774927250" />
     <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587300981609">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580542195484" />
     <state x="461" y="253" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587300981609" />
     <state x="485" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587438061859">
       <screen x="0" y="0" width="1536" height="864" />
@@ -744,10 +745,6 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="564" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1587041298676" />
-    <state x="178" y="29" key="new project wizard" timestamp="1580542224104">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580542224104" />
     <state x="472" y="65" key="refactoring.ChangeSignatureDialog" timestamp="1587824039856">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -755,12 +752,11 @@
     <state x="425" y="196" width="672" height="677" key="run.anything.popup" timestamp="1586317046466">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580198498975" />
     <state x="425" y="196" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586317046466" />
-    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1587993835606">
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1589207978949">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587993835606" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1589207978949" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$Triangle.ic" NAME="Triangle Coverage Results" MODIFIED="1585367559357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
