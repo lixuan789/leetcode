@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code15threeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code554LeastBricks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code27mirrorTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="leetcode">
@@ -310,7 +308,7 @@
       <workItem from="1588840943764" duration="5000" />
       <workItem from="1589092552387" duration="2679000" />
       <workItem from="1589169349055" duration="3541000" />
-      <workItem from="1589197761775" duration="1087000" />
+      <workItem from="1589197761775" duration="2369000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -522,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588774925225</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="leetcode">
+      <created>1589208548004</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1589208548004</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -665,10 +670,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1588666783766" />
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1588774924021">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1589208546735">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1588774924021" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1589208546735" />
     <state x="626" y="182" key="EnvironmentVariablesDialog" timestamp="1587438522273">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
