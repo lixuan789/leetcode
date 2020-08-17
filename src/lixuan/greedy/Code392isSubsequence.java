@@ -18,20 +18,43 @@ package lixuan.greedy;
  */
 public class Code392isSubsequence {
     public boolean isSubsequence(String s, String t) {
-        int i=0;
-        int j=0;
-        while (i<s.length()||j<t.length()){
-            if(s.charAt(i)==t.charAt(j)){
+        int i = 0;
+        int j = 0;
+        while (i < s.length() || j < t.length()) {
+            if (s.charAt(i) == t.charAt(j)) {
                 i++;
                 j++;
-            }else {
+            } else {
                 j++;
             }
         }
-        if(i==s.length()){
+        if (i == s.length()) {
             return true;
-        }else {
+        } else {
             return false;
         }
+    }
+
+    /**
+     * 改进
+     *
+     * @param s
+     * @param t
+     * @return
+     */
+    public boolean isSubsequence1(String s, String t) {
+        if (s == null || s.length() == 0) {
+            return true;
+        }
+        char[] chars_s = s.toCharArray();
+        char[] chars_t = t.toCharArray();
+        int i = 0, j = 0;
+        while (i < s.length() && j < t.length()) {
+            if (chars_s[i] == chars_t[j]) {
+                i++;
+            }
+            j++;
+        }
+        return i == chars_t.length;
     }
 }
