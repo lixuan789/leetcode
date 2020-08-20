@@ -20,10 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dd9d4f0-414e-4915-a2cb-7abb996e58f2" name="2020年4月16日20:45:45 arrayandmatrix" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code394decodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Codeprint1ToMaxOfNDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code77Combine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Backtracking/Code78Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/binarySearch/Code153FindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code109SortedListToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/daydayup/Code647CountSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dfs/Code130Solve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/dfs/Code417PacificAtlantic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/divideAndConquer/Code22generateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lixuan/divideAndConquer/Code241diffWaysToCompute1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lixuan/greedy/Code392isSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/greedy/Code392isSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code392isSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lixuan/greedy/Code392isSubsequence.class" afterDir="false" />
     </list>
     <list id="ef55efbb-0c22-4d0f-880b-cae1341a6838" name="Default Changelist" comment="leetcode">
       <change beforePath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/dp/Code416canPartition.java" afterDir="false" />
@@ -71,6 +78,9 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lixuan.divideAndConquer" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\study\Java\00 讲义+笔记+资料\JavaWeb\25.会员版(2.0)-就业课(2.0)-Jquery\day12_JQuery高级\代码\day21_JQuery高级" />
       <recent name="D:\study\Java\00 讲义+笔记+资料\JavaWeb\25.会员版(2.0)-就业课(2.0)-Jquery\day11_JQuery基础\代码\day20_JQuery基础\练习" />
@@ -81,13 +91,13 @@
       <command value="ArrayList" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Codeprint1ToMaxOfNDigits">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.sort.BubbleSort" />
+  <component name="RunManager" selected="Application.Code647CountSubstrings">
+    <configuration name="Code22generateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.divideAndConquer.Code22generateParenthesis" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lixuan.sort.*" />
+          <option name="PATTERN" value="lixuan.divideAndConquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,8 +105,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code394decodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.daydayup.Code394decodeString" />
+    <configuration name="Code241diffWaysToCompute1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.divideAndConquer.Code241diffWaysToCompute1" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.divideAndConquer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code647CountSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.daydayup.Code647CountSubstrings" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -108,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Codeprint1ToMaxOfNDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.daydayup.Codeprint1ToMaxOfNDigits" />
+    <configuration name="Code78Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.Backtracking.Code78Subsets" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lixuan.daydayup.*" />
+          <option name="PATTERN" value="lixuan.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,25 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.sort.MergeSort" />
+    <configuration name="Code93restoreIpAddresses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.Backtracking.Code93restoreIpAddresses" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lixuan.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.sort.QuickSort" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lixuan.sort.*" />
+          <option name="PATTERN" value="lixuan.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,19 +205,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.MergeSort" />
-      <item itemvalue="Application.Code394decodeString" />
-      <item itemvalue="Application.Codeprint1ToMaxOfNDigits" />
+      <item itemvalue="Application.Code241diffWaysToCompute1" />
+      <item itemvalue="Application.Code22generateParenthesis" />
+      <item itemvalue="Application.Code93restoreIpAddresses" />
+      <item itemvalue="Application.Code78Subsets" />
+      <item itemvalue="Application.Code647CountSubstrings" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Codeprint1ToMaxOfNDigits" />
-        <item itemvalue="Application.Code394decodeString" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.Code647CountSubstrings" />
+        <item itemvalue="Application.Code78Subsets" />
+        <item itemvalue="Application.Code93restoreIpAddresses" />
+        <item itemvalue="Application.Code22generateParenthesis" />
+        <item itemvalue="Application.Code241diffWaysToCompute1" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +329,11 @@
       <workItem from="1590974905863" duration="4000" />
       <workItem from="1591607250228" duration="1020000" />
       <workItem from="1592300838985" duration="34000" />
-      <workItem from="1597643741588" duration="2280000" />
+      <workItem from="1597643741588" duration="7605000" />
+      <workItem from="1597661322748" duration="135000" />
+      <workItem from="1597709752045" duration="11286000" />
+      <workItem from="1597795877680" duration="15750000" />
+      <workItem from="1597881620712" duration="1250000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1587037570165</created>
@@ -545,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589209923530</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="leetcode">
+      <created>1597648157532</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1597648157532</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -676,119 +697,64 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587438525381">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="223" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587438525381" />
-    <state x="548" y="141" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1587438512059">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="548" y="141" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" timestamp="1587438512059" />
     <state x="574" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1590636553726">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590636553726" />
-    <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1588666783766" />
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1589209922469">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1597648156279">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="385" y="0" key="CommitChangelistDialog2/0.-1080.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1597648156279" />
     <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1589209922469" />
-    <state x="626" y="182" key="EnvironmentVariablesDialog" timestamp="1587438522273">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="626" y="182" key="EnvironmentVariablesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587438522273" />
     <state x="549" y="106" key="FileChooserDialogImpl" timestamp="1592300873200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="106" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592300873200" />
     <state x="549" y="111" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1589180948681" />
-    <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog" timestamp="1587036727557">
+    <state width="1483" height="207" key="GridCell.Tab.0.bottom" timestamp="1597817117097">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="593" y="347" width="373" height="170" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1587036727557" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1591608576338">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
+    <state width="1483" height="207" key="GridCell.Tab.0.bottom/0.-1080.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1597817117097" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591608576338" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588774940655" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1591608576337">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1483" height="207" key="GridCell.Tab.0.center" timestamp="1597817117097">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1483" height="207" key="GridCell.Tab.0.center/0.-1080.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1597817117097" />
     <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591608576337" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588774940655" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1591608576337">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1483" height="207" key="GridCell.Tab.0.left" timestamp="1597817117097">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1483" height="207" key="GridCell.Tab.0.left/0.-1080.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1597817117097" />
     <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591608576337" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588774940655" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1591608576338">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1483" height="207" key="GridCell.Tab.0.right" timestamp="1597817117097">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state width="1483" height="207" key="GridCell.Tab.0.right/0.-1080.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1597817117097" />
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591608576338" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588774940655" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1590650074877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590650074877" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587439886094" />
     <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1590650074877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590650074877" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
     <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1590650074877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590650074877" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
     <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1590650074877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590650074877" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1587439886093" />
-    <state x="586" y="146" key="RollbackChangesDialog" timestamp="1587191630912">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="586" y="146" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587191630912" />
-    <state x="302" y="13" key="SettingsEditor" timestamp="1588495056548">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="302" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588495056548" />
-    <state x="614" y="352" key="VCS.ChangelistChooser" timestamp="1587960224493">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="614" y="352" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1587960224493" />
     <state x="361" y="157" key="Vcs.Push.Dialog.v2" timestamp="1589209927966">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1589209927966" />
-    <state x="461" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587300981609">
+    <state x="431" y="152" width="840" height="711" key="search.everywhere.popup" timestamp="1597805971329">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="461" y="253" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587300981609" />
-    <state x="485" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587438061859">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="485" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1587438061859" />
-    <state x="308" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586832541856">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="308" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1586832541856" />
-    <state x="564" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587041298676">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="564" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1587041298676" />
-    <state x="472" y="65" key="refactoring.ChangeSignatureDialog" timestamp="1587824039856">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="472" y="65" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1587824039856" />
-    <state x="425" y="196" width="672" height="677" key="run.anything.popup" timestamp="1586317046466">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="425" y="196" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586317046466" />
-    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1589207978949">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
+    <state x="431" y="152" width="840" height="711" key="search.everywhere.popup/0.-1080.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1597805971329" />
     <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1589207978949" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
