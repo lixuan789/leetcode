@@ -44,7 +44,6 @@ public class Code416canPartition {
         //动态规划
         //明确状态：dp[m][n] 考虑是否将第m个数字放入容量为n的背包
         boolean[][] dp = new boolean[n][c + 1];
-
         //状态初始化
         for (int i = 0; i <= c; i++) {
             if (i != nums[0]) {
