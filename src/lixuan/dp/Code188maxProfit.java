@@ -58,4 +58,40 @@ public class Code188maxProfit {
         return dp[k][0];
     }
 
+    /**
+     * 继续优化：交易次数大于总数的二分之一，则任意2天都可以进行交易
+     * @param k
+     * @param prices
+     * @return
+     */
+    public int maxProfit2(int k, int[] prices) {
+        if (prices == null || prices.length == 0) {
+            return 0;
+        }
+        int n = prices.length;
+        if(k>=n/2){
+            int maxProfit=0;
+            for (int i=1;i<n;i++){
+                if (prices[i]>prices[i-1]){
+                    maxProfit+=(prices[i]-prices[i-1]);
+                }
+            }
+            return maxProfit;
+        }
+
+        int[][] dp = new int[k + 1][2];
+        for (int i = 0; i < n; i++) {
+            for (int j = k; j > 0; j--) {
+                if (i == 0) {
+                    dp[j][0] = 0;
+                    dp[j][1] = -prices[i];
+                    continue;
+                }
+                dp[j][0] = Math.max(dp[j][0], dp[j][1] + prices[i]);
+                dp[j][1] = Math.max(dp[j][1], dp[j - 1][0] - prices[i]);
+            }
+        }
+        return dp[k][0];
+    }
+
 }
