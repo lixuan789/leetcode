@@ -77,6 +77,7 @@ public class Code1160countCharacters {
             for (int i = 0; i < 26; i++) {
                 if (w[i] > c[i]) {
                     flag = false;
+                    break;
                 }
             }
             if (flag) {

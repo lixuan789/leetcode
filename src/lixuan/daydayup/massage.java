@@ -14,25 +14,18 @@ package lixuan.daydayup;
 public class massage {
     /**
      * dp[i]表示从0到i之间的最长预约时长
-     * 则dp[i]=max(dp[i-2]+nums[i],dp[i-1],nums[i]);
+     * 则dp[i]=max(dp[i-2]+nums[i],dp[i-1]);
      *
      * @param nums
      * @return
      */
     public int massage(int[] nums) {
-        if (nums == null || nums.length == 0) {
-            return 0;
+        int a = 0, b = 0;
+        for (int i = 0; i < nums.length; i++) {
+            int c = Math.max(b, a + nums[i]);
+            a = b;
+            b = c;
         }
-        int n = nums.length;
-        int[] dp = new int[n];
-        dp[0] = nums[0];
-        for (int i = 1; i < n; i++) {
-            if (i < 2) {
-                dp[i] = Math.max(dp[i - 1], nums[i]);
-            } else {
-                dp[i] = Math.max(dp[i - 2] + nums[i], Math.max(dp[i - 1], nums[i]));
-            }
-        }
-        return dp[n - 1];
+        return b;
     }
 }

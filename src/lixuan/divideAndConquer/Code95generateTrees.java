@@ -37,4 +37,10 @@ public class Code95generateTrees {
         }
         return res;
     }
+
+    public static void main(String[] args) {
+        Code95generateTrees test = new Code95generateTrees();
+        List<TreeNode> treeNodes = test.generateTrees(3);
+        treeNodes.stream().forEach(System.out::println);
+    }
 }
